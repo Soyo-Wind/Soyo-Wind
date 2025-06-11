@@ -34,7 +34,7 @@
 </div>
 
 <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soyo-Wind&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soyo-Wind&show_icons=true&theme=light" />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
