@@ -30,7 +30,7 @@
 </div>
   
   ## 🛠️ **Tech Stack**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,arch,linux,raspberrypi,windows,cs,arduino,html,css,obsidian,blender" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arch,linux,raspberrypi,windows,cs,arduino,html,css,obsidian,blender,python" />
 
 ## 🏆 **Status**
 <div align="left">
