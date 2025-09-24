@@ -3,25 +3,7 @@
 </header>
 
 <main>
-    
-  ## 🌟 **About Me**
 
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-<h1>🪶
-<br><strong>Soyo-Wind</strong>
-</h1>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm Soyo!**
-</td>
-</tr>
-</table>
-</div>
-  
   ## 🛠️ **Tech Stack** (使ってるものの列挙)
 <img src="https://skillicons.dev/icons?i=vscode,github,raspberrypi,cs,arduino,html,css,obsidian,blender,python" />
 
