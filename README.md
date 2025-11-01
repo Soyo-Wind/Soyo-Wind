@@ -5,7 +5,7 @@
 <main>
 
   ## 🛠️ **Tech Stack** (使ってるものの列挙)
-<img src="https://skillicons.dev/icons?i=vscode,github,raspberrypi,cs,arduino,html,css,obsidian,blender,python" />
+<img src="https://skillicons.dev/icons?i=vscode,github,raspberrypi,cs,arduino,html,obsidian" />
 
 ## 🏆 **Status**
 <div align="left">
