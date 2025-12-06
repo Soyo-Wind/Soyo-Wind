@@ -1,2 +1,1 @@
-# Soyo-Wind
-![](https://komarev.com/ghpvc/?username=Soyo-Wind&color=blue)
+![](https://github-profile-trophy.vercel.app/?username=soyo-wind&theme=nord)
